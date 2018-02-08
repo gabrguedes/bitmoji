@@ -13,7 +13,7 @@ Examples:
 * [female outfits](https://joshcheek.github.io/bitmoji/female_outfits.html)
 * [male outfits](https://joshcheek.github.io/bitmoji/male_outfits.html)
 * [packs](https://joshcheek.github.io/bitmoji/packs.html)
-* [find users](https://joshcheek.github.io/bitmoji/find-users.html)
+* [find users](https://gabrguedes.github.io/bitmoji/find-users.html)
 
 I've discovered that there are additional comics, which aren't listed in the API output, eg: `10211795`
 
